@@ -10,7 +10,6 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
-
 p{
     text-align: justify;
     margin-left: 100px;
@@ -18,7 +17,6 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
-
 .section_cours_gauche{
     float: left;
     text-align: center;
@@ -29,6 +27,7 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     width: 32.5%;
+    padding-bottom: 50px;
 }
 .section_cours_milieu{
     float: left;
@@ -40,6 +39,7 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     width: 32.5%;
+    padding-bottom: 50px;
 }
 .section_cours_droite{
     float: left;
@@ -51,4 +51,5 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     width: 32.5%;
+    padding-bottom: 50px;
 }
