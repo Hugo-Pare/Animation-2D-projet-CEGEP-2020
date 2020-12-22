@@ -7,8 +7,10 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open main.html",
-            "file": "c:\\Users\\18199\\dev\\animation_3D_cegep"
+            "name": "Launch Chrome against localhost",
+            // insert local ip
+            "url": "http://127.0.0.1:5500/",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
