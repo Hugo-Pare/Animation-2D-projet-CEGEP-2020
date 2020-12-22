@@ -10,6 +10,29 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
+
+/* Navigation bar*/
+.barre_navigation{
+    width: 100%;
+    background-color: lightblue;
+    overflow: auto;
+}
+.barre_navigation a{
+    float:left;
+    padding: 12px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    width: 23.5%;
+    text-align: center;
+}
+.barre_navigation a:hover{
+    background-color: cornflowerblue;
+}
+.barre_navigation a.active{
+    background-color: blue;
+}
+
 p{
     text-align: justify;
     margin-left: 100px;
@@ -20,36 +43,36 @@ p{
 .section_cours_gauche{
     float: left;
     text-align: center;
-    border: 4px;
+    border: 1px;
     border-style: solid;
     border-color: green;
     background-color: lightgreen;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    width: 32.5%;
+    width: 33%;
     padding-bottom: 50px;
 }
 .section_cours_milieu{
     float: left;
     text-align: center;
-    border: 4px;
+    border: 1px;
     border-style: solid;
     border-color: red;
     background-color: lightpink;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    width: 32.5%;
+    width: 33%;
     padding-bottom: 50px;
 }
 .section_cours_droite{
     float: left;
     text-align: center;
-    border: 4px;
+    border: 1px;
     border-style: solid;
     border-color: blue;
     background-color: lightblue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    width: 32.5%;
+    width: 33%;
     padding-bottom: 50px;
 }
