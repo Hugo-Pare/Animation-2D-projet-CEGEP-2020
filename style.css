@@ -11,3 +11,34 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
+
+.section_cours_gauche{
+    float: left;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 32.5%;
+}
+.section_cours_milieu{
+    float: left;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 32.5%;
+}
+.section_cours_droite{
+    float: left;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 32.5%;
+}
