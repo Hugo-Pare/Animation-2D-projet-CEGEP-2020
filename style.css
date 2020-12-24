@@ -11,12 +11,18 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
+.image_quiz{
+    padding-top: 20px;
+    margin-left: 150px;
+    padding-bottom: 20px;
+}
 
 /* Navigation bar*/
 .barre_navigation{
     width: 100%;
     background-color: lightblue;
     overflow: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .barre_navigation a{
@@ -44,13 +50,27 @@ h1{
     font-size: 20px;
     font-weight: bold;
     margin-left: 100px;
+    margin-bottom: 20px;
 }
 .question_texte{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
 }
-
+.question_choix_reponses{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    line-height: 2;
+}
+/*Animation*/
+ .animation_2D{
+     margin-top: 50px;
+     margin-left: 400px
+ }
 p{
     text-align: justify;
     margin-left: 100px;
@@ -59,7 +79,7 @@ p{
     font-size: 20px;
 }
 
-.remerciements_texte{
+.dernier_texte{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
