@@ -37,6 +37,19 @@ h1{
 .barre_navigation a.active{
     background-color: blue;
 }
+/*Questionnaire*/
+
+.question_titre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.question_texte{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
 
 p{
     text-align: justify;
