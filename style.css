@@ -5,7 +5,10 @@
     width: 100%;
     background-color: lightblue;
 }
-
+.animation_2D{
+    width: 50%;
+    margin-left: 25%;
+}
 h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -83,9 +86,11 @@ p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
     padding-bottom: 100px;
+    padding-top: 20px;
+    width: 50%;
 }
 
 .section_cours_gauche{
@@ -100,9 +105,6 @@ p{
     width: 33%;
     padding-bottom: 50px;
 }
-
-
-
 .section_cours_milieu{
     float: left;
     text-align: center;
@@ -127,6 +129,8 @@ p{
     width: 33%;
     padding-bottom: 50px;
 }
-.None{
-    display: none;
+
+.verifier_reponses_bouton{
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
