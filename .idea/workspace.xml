@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebab0fc-8864-479e-875f-0e0409467a95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Solutions/solutions_collisions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Page animation/animation_plan_incline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page animation/animation_plan_incline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collisions.html" beforeDir="false" afterPath="$PROJECT_DIR$/collisions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Solutions/solutions_plans_incline.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Solutions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\18199\dev\animation_2D_cegep\Page animation\" />
       <recent name="C:\Users\18199\dev\animation_2D_cegep\Solutions\" />
+      <recent name="C:\Users\18199\dev\animation_2D_cegep\Page animation\" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +60,8 @@
       <workItem from="1608819687854" duration="1497000" />
       <workItem from="1608830141667" duration="5153000" />
       <workItem from="1609022745684" duration="5639000" />
-      <workItem from="1609100842062" duration="376000" />
+      <workItem from="1609100842062" duration="464000" />
+      <workItem from="1609205488994" duration="2776000" />
     </task>
     <servers />
   </component>

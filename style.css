@@ -61,6 +61,7 @@ h1{
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 20px;
+    line-height: 2;
 }
 .question_choix_reponses{
     font-family: Arial, Helvetica, sans-serif;
