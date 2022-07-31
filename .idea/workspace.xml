@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebab0fc-8864-479e-875f-0e0409467a95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page animation/animation_collisions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page animation/animation_collisions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page animation/animation_moment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page animation/animation_moment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page animation/animation_plan_incline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page animation/animation_plan_incline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/solutions_collisions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/solutions_collisions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solutions/solutions_moment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/solutions_moment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/solutions_plans_incline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/solutions_plans_incline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collisions.html" beforeDir="false" afterPath="$PROJECT_DIR$/collisions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moments de force.html" beforeDir="false" afterPath="$PROJECT_DIR$/moments de force.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plans inclines.html" beforeDir="false" afterPath="$PROJECT_DIR$/plans inclines.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Solutions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -68,6 +76,7 @@
       <workItem from="1609533636487" duration="3423000" />
       <workItem from="1609624132110" duration="842000" />
       <workItem from="1609722082492" duration="293000" />
+      <workItem from="1659300742639" duration="33000" />
     </task>
     <servers />
   </component>
